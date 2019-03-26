@@ -6,6 +6,7 @@
 
 
 import UIKit
+import Firebase
 
 
 class LogInViewController: UIViewController {
@@ -26,7 +27,6 @@ class LogInViewController: UIViewController {
    
     @IBAction func logInPressed(_ sender: AnyObject) {
 
-        
         //TODO: Log in the user
         
         
